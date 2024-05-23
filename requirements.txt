@@ -1,0 +1,11 @@
+scikit-learn==1.3.1
+numpy
+pandas
+matplotlib
+django
+django-crispy-forms
+crispy-bootstrap4
+scikit-learn
+shap
+pdpbox
+
